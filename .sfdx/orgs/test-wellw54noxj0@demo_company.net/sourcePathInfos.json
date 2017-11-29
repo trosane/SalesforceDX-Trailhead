@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1511995273653,
-            "changeTime": 1511995273653,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1511996028202,
+            "changeTime": 1511996028202,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -48,13 +48,12 @@
             "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1511993591193,
-            "changeTime": 1511993591193,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1511995475091,
+            "changeTime": 1511995475091,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -63,13 +62,12 @@
             "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1511993657597,
-            "changeTime": 1511993657597,
-            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "modifiedTime": 1511994820451,
+            "changeTime": 1511994820451,
+            "contentHash": "9ac00caf0d373ab51fe4bcab768d93100c92454f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -218,40 +216,222 @@
     [
         "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1511995273707,
             "changeTime": 1511995380077,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1511995417989,
             "changeTime": 1511995417989,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1511995273710,
             "changeTime": 1511995273710,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511995475116,
+            "changeTime": 1511995475116,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1511995685939,
+            "changeTime": 1511995685939,
+            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1511995475099,
+            "changeTime": 1511995475099,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 126,
+            "modifiedTime": 1511995734440,
+            "changeTime": 1511995734440,
+            "contentHash": "a1222c098c06e0369b896926e42516f9d88f422b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1511995475107,
+            "changeTime": 1511995475107,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1511995475111,
+            "changeTime": 1511995475111,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1511995475120,
+            "changeTime": 1511995475120,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1511996028200,
+            "changeTime": 1511996028200,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1511996028204,
+            "changeTime": 1511996028204,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17142,
+            "modifiedTime": 1511996028220,
+            "changeTime": 1511996028220,
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1511996028224,
+            "changeTime": 1511996028224,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1511996028228,
+            "changeTime": 1511996028228,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511996028198,
+            "changeTime": 1511996028198,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Trent.Rosane\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511996028227,
+            "changeTime": 1511996028227,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
